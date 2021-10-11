@@ -1,5 +1,5 @@
 body{
-    width: 1200px;
+    width: 1050px;
     margin: auto;
 }
 
@@ -16,7 +16,7 @@ header{
 
 #titolo {
     margin-top: 10px;
-    font-size: 50px;
+    font-size: 45px;
     font-weight: bold;
 }
 
@@ -25,9 +25,49 @@ header{
 }
 
 #autore{
-    font-size: 1.5em;
+    font-size: 20px;
 }
 
 #autore > span {
     color: #4CBCEB;
+}
+
+#sezione-foto{
+    margin-top: 20px;
+}
+
+.didascalia{
+    margin:0;
+    padding: 0;
+    font-size: 15px;
+}
+
+.yellow-back{
+    background-color: yellow;
+}
+
+#main-section > ul {
+    padding-left: 20px;
+}
+
+.width-20 {
+    width: 20%;
+}
+
+.width-40 {
+    width: 50%;
+}
+
+th{
+    text-align: left;
+}
+
+thead {
+    color: white;
+    background-color: #19AAE6;
+    border-color: #19AAE6;
+}
+
+tbody > .lightblue {
+    background-color: #B2E6F2;
 }
