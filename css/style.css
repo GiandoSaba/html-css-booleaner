@@ -71,3 +71,27 @@ thead {
 tbody > .lightblue {
     background-color: #B2E6F2;
 }
+
+#footer-title {
+    font-size: 15px;
+    color: grey;
+    font-weight: bold;
+}
+
+.image {
+    width: 250px;
+    height: 200px;
+    background-size: cover 100%;
+    margin: 10px 0;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#monitor {
+    background-image: url(../img/monitor.jpg);
+}
+#grafica{
+    background-image: url(../img/graph.jpg);
+}
